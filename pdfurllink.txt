@@ -1,0 +1,2 @@
+http://nullege.com/codes/search/reportlab.lib.styles.getSampleStyleSheet
+https://www.programcreek.com/python/example/58583/reportlab.lib.styles.getSampleStyleSheet
